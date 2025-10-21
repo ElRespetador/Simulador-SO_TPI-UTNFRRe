@@ -8,7 +8,7 @@
 import os
 import sys
 sys.path.insert(0, os.path.abspath(
-    r'C:\Users\rodri\OneDrive\Escritorio\Github\Simulador-SO_TPI-UTNFRRe\scr'))
+    r'C:\Users\rodri\OneDrive\Escritorio\Github\Simulador-SO_TPI-UTNFRRe\src'))
 project = 'TPI Simulador-SO'
 copyright = '2025, Rodrigo Valdez'
 author = 'Rodrigo Valdez'
