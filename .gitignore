@@ -23,9 +23,6 @@ build/
 *.log
 *.sqlite3
 
-# Documentación Sphinx (Ignora los archivos compilados)
-docs/_build/
-
 # Archivos de Editores/OS
 .vscode/  # Si usas VS Code
 .idea/    # Si usas PyCharm
